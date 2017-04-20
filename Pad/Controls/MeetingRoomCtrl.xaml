@@ -1,0 +1,118 @@
+﻿<UserControl x:Class="Pad.Controls.MeetingRoomCtrl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+             xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions"
+             xmlns:local="clr-namespace:Pad.Controls"
+             mc:Ignorable="d" x:Name="uc"
+             Width="1620" Height="1000"
+             d:DesignWidth="1620" d:DesignHeight="1000" 
+             Background="Transparent">
+    <UserControl.Resources>
+        <Storyboard x:Key="IsReady">
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.0" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="NotReady">
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.0" Value="{x:Static Visibility.Hidden}"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="SendSource">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(Canvas.Top)" Storyboard.TargetName="drageImage">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="-200">
+                    <EasingDoubleKeyFrame.EasingFunction>
+                        <PowerEase EasingMode="EaseIn"/>
+                    </EasingDoubleKeyFrame.EasingFunction>
+                </EasingDoubleKeyFrame>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </UserControl.Resources>
+
+    <i:Interaction.Triggers>
+        <ei:DataTrigger Binding="{Binding Path=DragStatus,ElementName=uc}" Value="1">
+            <ei:ControlStoryboardAction Storyboard="{StaticResource IsReady}"/>
+        </ei:DataTrigger>
+        <ei:DataTrigger Binding="{Binding Path=DragStatus,ElementName=uc}" Value="0">
+            <ei:ControlStoryboardAction Storyboard="{StaticResource NotReady}"/>
+        </ei:DataTrigger>
+        <ei:DataTrigger Binding="{Binding Path=DragStatus,ElementName=uc}" Value="2">
+            <ei:ControlStoryboardAction Storyboard="{StaticResource SendSource}"/>
+        </ei:DataTrigger>
+    </i:Interaction.Triggers>
+    <Canvas x:Name="canvas" TouchDown="UIElement_OnTouchDown" TouchMove="UIElement_OnTouchMove" TouchUp="Canvas_OnTouchUp">
+        <Grid Height="{Binding ElementName=uc,Path=ActualHeight}" Width="{Binding ElementName=uc,Path=ActualWidth}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid x:Name="Board" Background="{StaticResource BoardBackground}"
+              VerticalAlignment="Top" HorizontalAlignment="Center"
+              Width="780" Height="400"
+              Margin="0,155,0,0">
+            </Grid>
+            <StackPanel Orientation="Horizontal" Grid.Row="1" 
+                    Height="175" 
+                    VerticalAlignment="top" HorizontalAlignment="Center"
+                    Margin="0,80,0,0">
+                <Button x:Name="btn_DailyLast" Content="上一页" 
+                    HorizontalAlignment="Center" VerticalAlignment="Bottom"
+                    Margin="0,0,30,0" Height="57" Width="120"
+                    Click="btn_DailyLast_Click">
+                </Button>
+                <!--Click="btn_DailyLast_Click"-->
+                <ListBox x:Name="lb_DailySourcesImg"  
+                     HorizontalAlignment="Center" Width="1150"
+                     Background="Transparent" 
+                     ScrollViewer.VerticalScrollBarVisibility="Disabled" 
+                     ScrollViewer.HorizontalScrollBarVisibility="Hidden"
+                     ScrollViewer.IsDeferredScrollingEnabled="False" 
+                     ScrollViewer.CanContentScroll="False">
+                    <ListBox.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel Orientation="Horizontal" IsItemsHost="True"/>
+                        </ItemsPanelTemplate>
+                    </ListBox.ItemsPanel>
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Button BorderThickness="0" Click="Button_Click">
+                                <Button.Template>
+                                    <ControlTemplate>
+                                        <Grid Width="260" Height="145" Background="AliceBlue">
+                                            <Image x:Name="img_Source" Stretch="Fill" Tag = "listboxitem" 
+                                                   Source="{Binding TargetImg}"/>
+                                            <Border Height="75" HorizontalAlignment="Stretch" VerticalAlignment="Center" Background="#2A2A2A">
+                                                <TextBlock Text="{Binding KeyName}" Foreground="LightGray" FontSize="42" 
+                                                           VerticalAlignment="Center"
+                                                           TextAlignment="Center" TextTrimming="WordEllipsis" TextWrapping="NoWrap"></TextBlock>
+                                            </Border>
+                                        </Grid>
+                                    </ControlTemplate>
+                                </Button.Template>
+                            </Button>
+
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+                <Button x:Name="btn_DailyNext" Content="下一页" Grid.Column="2"
+                    VerticalAlignment="Bottom" HorizontalAlignment="Left"
+                    Margin="30,0,0,0" Height="57" Width="120"
+                    Click="btn_DailyNext_Click">
+                </Button>
+                <!--Click="btn_DailyNext_Click"-->
+            </StackPanel>
+        </Grid>
+        <!--拖拽时跟随触点的图片框-->
+        <Grid x:Name="drageImage"  Width="300" Height="150" Background="AliceBlue" Visibility="Collapsed"
+               Opacity="0.4">
+            <Image Stretch="Fill"  Source="{Binding TargetImg}"></Image>
+            <Border x:Name="border" CornerRadius="20" BorderThickness="4" BorderBrush="White"  Visibility="Hidden">
+                <Rectangle x:Name="rectangle" Fill="DarkSeaGreen" Opacity="0.5">
+                </Rectangle>
+            </Border>
+        </Grid>
+    </Canvas>
+</UserControl>

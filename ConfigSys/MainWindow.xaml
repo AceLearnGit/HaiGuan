@@ -1,0 +1,56 @@
+﻿<Window x:Class="ConfigSys.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConfigSys"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <ItemsPanelTemplate x:Key="ItemsPanelTemplate1">
+            <StackPanel IsItemsHost="True" Orientation="Vertical"/>
+        </ItemsPanelTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="9*"/>
+        </Grid.ColumnDefinitions>
+        <Menu ItemsPanel="{DynamicResource ItemsPanelTemplate1}">
+            <MenuItem Header="大屏配置" Click="MenuItem_Click"/>
+            <MenuItem Header="数据录入" Click="MenuItem_Click1"/>
+            <MenuItem Header="导入数据" />
+            <MenuItem Header="修改密码" />
+            <MenuItem Header="在线更新" />
+            <MenuItem Header="问题反馈" />
+            <MenuItem Header="技术支持" />
+            <MenuItem Header="帮助"/>
+            <MenuItem Header="关于" />
+        </Menu>
+        <Grid x:Name="ContentGrid" Grid.Column="1" Background="AliceBlue">
+            <Grid x:Name="ConfigScreen" Visibility="Collapsed">
+                <StackPanel Margin="10,10">
+                    <TextBlock Margin="5">屏宽</TextBlock>
+                    <TextBox x:Name="tbScreenWidth"></TextBox>
+                    <TextBlock Margin="5">屏高</TextBlock>
+                    <TextBox x:Name="tbScreenHeight"></TextBox>
+                    <Button x:Name="btnSave" Content="保存" Click="btnSave_Click" Margin="0,10"></Button>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="AddData" Visibility="Visible">
+                <StackPanel Margin="10,10">
+                    <TextBlock Margin="5">源名称</TextBlock>
+                    <TextBox x:Name="tbKey"></TextBox>
+                    <TextBlock Margin="5">源地址</TextBlock>
+                    <TextBox x:Name="tbSource"></TextBox>
+                    <Border BorderThickness="1" BorderBrush="Red" Width="80" Height="80">
+                        <Image x:Name="img_source" Stretch="Fill"></Image>
+                    </Border>
+                    <Button x:Name="btn_selectImg" Margin="5" Click="btn_selectImg_Click">缩略图</Button>
+                    <Button x:Name="btnAdd" Content="添加" Margin="0,10" Click="btnAdd_Click"></Button>
+                    <Button x:Name="btnAddCompleted" Content="保存" Margin="0,10" Click="btnAddCompleted_Click"></Button>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

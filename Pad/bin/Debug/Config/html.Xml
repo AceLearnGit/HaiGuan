@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Devices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeviceList>
+    <Device Row="2" Column="2" DeviceID="A">
+      <DeviceDataList>
+        <SingleScreenItemInfo TargetUrl="D:\H5\gauge-car.html">
+          <Row>0</Row>
+          <RowSpan>1</RowSpan>
+          <Column>0</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>91b00a22-de4a-43aa-b805-3848081a7929</ID>
+          <IsWebKit>true</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="D:\H5\geo-lines.html">
+          <Row>0</Row>
+          <RowSpan>1</RowSpan>
+          <Column>1</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>8c3f341c-71f4-4c01-99bc-22280cd65be8</ID>
+          <IsWebKit>true</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="D:\H5\parallel-aqi.html">
+          <Row>1</Row>
+          <RowSpan>1</RowSpan>
+          <Column>0</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>7d61a677-443e-4bcc-8b5d-09d850e866f0</ID>
+          <IsWebKit>true</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="D:\H5\pie-custom.html">
+          <Row>1</Row>
+          <RowSpan>1</RowSpan>
+          <Column>1</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>39e4e61a-c3b8-455f-bbfb-c7167d701093</ID>
+          <IsWebKit>true</IsWebKit>
+        </SingleScreenItemInfo>
+      </DeviceDataList>
+    </Device>
+    <Device Row="1" Column="1" DeviceID="B">
+      <DeviceDataList />
+    </Device>
+    <Device Row="1" Column="1" DeviceID="C">
+      <DeviceDataList />
+    </Device>
+    <Device Row="1" Column="1" DeviceID="D">
+      <DeviceDataList />
+    </Device>
+  </DeviceList>
+</Devices>

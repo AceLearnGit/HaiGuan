@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:tns="http://schemas.datacontract.org/2004/07/DataModel" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/DataModel" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8733/Service1/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:complexType name="ArrayOfSingleScreenItemInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="SingleScreenItemInfo" nillable="true" type="tns:SingleScreenItemInfo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfSingleScreenItemInfo" nillable="true" type="tns:ArrayOfSingleScreenItemInfo" />
+  <xs:complexType name="SingleScreenItemInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Column" type="xs:int" />
+      <xs:element minOccurs="0" name="ColumnSpan" type="xs:int" />
+      <xs:element minOccurs="0" name="ID" type="ser:guid" />
+      <xs:element minOccurs="0" name="IsWebKit" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Row" type="xs:int" />
+      <xs:element minOccurs="0" name="RowSpan" type="xs:int" />
+      <xs:element minOccurs="0" name="TargetUrl" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SingleScreenItemInfo" nillable="true" type="tns:SingleScreenItemInfo" />
+  <xs:complexType name="ScreenItemsInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Columns" type="xs:int" />
+      <xs:element minOccurs="0" name="Rows" type="xs:int" />
+      <xs:element minOccurs="0" name="ScreenItems" nillable="true" type="tns:ArrayOfSingleScreenItemInfo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ScreenItemsInfo" nillable="true" type="tns:ScreenItemsInfo" />
+</xs:schema>

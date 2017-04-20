@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Devices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeviceList>
+    <Device Row="2" Column="2" DeviceID="A">
+      <DeviceDataList>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>0</Row>
+          <RowSpan>1</RowSpan>
+          <Column>0</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>03cfaa05-c84b-4026-86c8-092fb5b1f8eb</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>0</Row>
+          <RowSpan>1</RowSpan>
+          <Column>1</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>16ca2ff3-ba4c-4b3a-b4c4-a152e84ffa7b</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>1</Row>
+          <RowSpan>1</RowSpan>
+          <Column>0</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>001cfc1b-f20f-4a16-a067-21b3cce019fa</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>1</Row>
+          <RowSpan>1</RowSpan>
+          <Column>1</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>ffd51d28-6db9-49e8-b9bd-f4f98768966a</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+      </DeviceDataList>
+    </Device>
+    <Device Row="1" Column="1" DeviceID="B">
+      <DeviceDataList />
+    </Device>
+    <Device Row="1" Column="1" DeviceID="C">
+      <DeviceDataList />
+    </Device>
+    <Device Row="1" Column="1" DeviceID="D">
+      <DeviceDataList />
+    </Device>
+  </DeviceList>
+</Devices>

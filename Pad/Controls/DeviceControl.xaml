@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="Pad.Controls.DeviceControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Pad.Controls"
+             xmlns:UICommon="clr-namespace:UICommon.Controls;assembly=UICommon"
+             mc:Ignorable="d" 
+             d:DesignHeight="250" d:DesignWidth="325"
+             x:Name="uc">
+    <Grid>
+        <Grid x:Name="Board" Panel.ZIndex="0"
+                  Width="{Binding ElementName= uc,Path=Width}" 
+                  Height="{Binding ElementName=uc, Path= Height}">
+        </Grid>
+        <Canvas x:Name="cv" Focusable="True" Background="Transparent" Panel.ZIndex="1"
+                   Width="{Binding ElementName= uc,Path=Width}" 
+                  Height="{Binding ElementName=uc, Path= Height}"
+                    MouseLeftButtonDown="Canvas_MouseLeftButtonDown"
+                    MouseMove="Canvas_MouseMove"
+                    MouseLeftButtonUp="Canvas_MouseLeftButtonUp">
+            <Rectangle x:Name="rect" Stroke="Red" Fill="Transparent" StrokeThickness="2" Visibility="Collapsed"
+                           Canvas.Left="100" Canvas.Top="100"/>
+            <UICommon:DragControlHelper x:Name="helper" CornerWidth="5" DragChanging="helper_DragChanging" DragCompleted="helper_DragCompleted"/>
+        </Canvas>
+    </Grid>
+</UserControl>

@@ -1,0 +1,635 @@
+[0306/133110:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/133110:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/133110:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/133115:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/133115:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16D560B8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/133115:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16D550C0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/133115:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16D54310:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/133115:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16D54E78:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/133115:WARNING:stunport.cc(385)] Jingle:Port[0ECDDC48:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/133115:WARNING:stunport.cc(385)] Jingle:Port[09F6E010:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/133115:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0306/133115:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/133115:WARNING:stunport.cc(385)] Jingle:Port[0A07A4F0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/133115:WARNING:stunport.cc(385)] Jingle:Port[0ECDDC48:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/133115:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16D53C38:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/133115:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16D560B8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/133115:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16D54310:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/133115:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16D53560:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/133125:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:54797 (any)
+[0306/133125:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:54799 (any)
+[0306/161100:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/161100:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/161101:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/161105:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/161105:WARNING:stunport.cc(385)] Jingle:Port[1766FE18:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/161105:WARNING:stunport.cc(385)] Jingle:Port[17670348:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/161105:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0C8260E8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/161105:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0C8270E0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/161105:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0C827328:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/161105:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0C826C50:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/161106:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/161106:WARNING:stunport.cc(385)] Jingle:Port[177CE7F8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/161106:WARNING:stunport.cc(385)] Jingle:Port[15EE21E8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/161106:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0C827328:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/161106:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0C827570:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/161106:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0C826A08:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/161106:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0C8270E0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/161115:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:57696 (any)
+[0306/161115:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:57698 (any)
+[0306/161147:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/161147:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/161147:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/161151:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/161152:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/161152:WARNING:stunport.cc(385)] Jingle:Port[0C63C1D0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/161152:WARNING:stunport.cc(385)] Jingle:Port[12DF6000:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/161152:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[172CB740:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/161152:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[172CC738:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/161152:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[172CC2A8:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/161152:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[172CB988:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/161201:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:51435 (any)
+[0306/161201:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:51437 (any)
+[0306/162233:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/162233:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/162233:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/162237:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/162237:WARNING:stunport.cc(385)] Jingle:Port[10318658:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162237:WARNING:stunport.cc(385)] Jingle:Port[1670ABF8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162238:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/162238:WARNING:stunport.cc(385)] Jingle:Port[10113EA0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162238:WARNING:stunport.cc(385)] Jingle:Port[1670ABF8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162238:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16631958:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162238:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16632950:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162238:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16631DE8:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162238:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16632B98:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162247:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:56504 (any)
+[0306/162247:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:56506 (any)
+[0306/162354:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/162354:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/162354:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/162358:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/162358:WARNING:stunport.cc(385)] Jingle:Port[0F5981B8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162358:WARNING:stunport.cc(385)] Jingle:Port[172EBC00:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162358:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0F4BD4B0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162358:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0F4BC270:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162358:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0F4BC4B8:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162358:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0F4BD6F8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162408:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:51414 (any)
+[0306/162408:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:51416 (any)
+[0306/162503:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/162503:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/162503:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/162507:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/162507:WARNING:stunport.cc(385)] Jingle:Port[162669A8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162507:WARNING:stunport.cc(385)] Jingle:Port[162D8B60:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162507:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D4880:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162507:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D51A0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162507:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D53E8:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162507:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D3888:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162508:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/162508:WARNING:stunport.cc(385)] Jingle:Port[161AACA8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162508:WARNING:stunport.cc(385)] Jingle:Port[1637B330:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162508:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D43F0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162508:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D2F68:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162508:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D4F58:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162508:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D33F8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162517:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:60493 (any)
+[0306/162517:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:60495 (any)
+[0306/162834:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/162834:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/162834:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/162838:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/162839:WARNING:stunport.cc(385)] Jingle:Port[1725DF90:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162839:WARNING:stunport.cc(385)] Jingle:Port[10F8BB90:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162839:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17415CF8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162839:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[10D907B8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162839:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[10F889D0:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162839:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[10D8DC20:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162839:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0306/162839:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/162839:WARNING:stunport.cc(385)] Jingle:Port[175358E0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162839:WARNING:stunport.cc(385)] Jingle:Port[10DB7A18:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/162839:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[10F6C9E8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162839:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0D2B5ED0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162839:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17415CF8:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162839:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[09ACC408:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/162849:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:59042 (any)
+[0306/162849:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:59044 (any)
+[0306/163421:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/163421:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/163421:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/163426:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/163426:WARNING:stunport.cc(385)] Jingle:Port[0C3C5698:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/163426:WARNING:stunport.cc(385)] Jingle:Port[0E36D670:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/163426:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/163426:WARNING:stunport.cc(385)] Jingle:Port[0C3C5698:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/163426:WARNING:stunport.cc(385)] Jingle:Port[0E684C30:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/163426:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0E396640:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/163426:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0E687F50:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/163426:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[18133B38:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/163426:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0E3202B8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/163436:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:62655 (any)
+[0306/163436:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:62657 (any)
+[0306/164237:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/164237:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/164237:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/164241:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/164241:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/164241:WARNING:stunport.cc(385)] Jingle:Port[1010FDE0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/164241:WARNING:stunport.cc(385)] Jingle:Port[0CAED808:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/164242:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17D23C98:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/164242:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17D25368:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/164242:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17D27110:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/164242:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17D27A30:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/164251:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:50276 (any)
+[0306/164251:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:50278 (any)
+[0306/164346:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/164346:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/164346:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/164351:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/164351:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/164351:WARNING:stunport.cc(385)] Jingle:Port[097216E8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/164351:WARNING:stunport.cc(385)] Jingle:Port[071CD8E8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/164351:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[177D1C30:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/164351:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[177D3C20:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/164351:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[177D1558:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/164351:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[177D40B0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/164401:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:55363 (any)
+[0306/164401:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:55365 (any)
+[0306/165122:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/165122:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/165122:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/165127:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/165127:WARNING:stunport.cc(385)] Jingle:Port[097F9850:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/165127:WARNING:stunport.cc(385)] Jingle:Port[0C57F5D0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/165127:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15AF6A60:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165127:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15AF85C0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165127:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15AF6818:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165127:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15AF8808:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165127:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/165127:WARNING:stunport.cc(385)] Jingle:Port[098FB950:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/165127:WARNING:stunport.cc(385)] Jingle:Port[0C660A20:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/165127:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15AF7380:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165127:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15AF9800:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165127:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15AF6CA8:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165127:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15AF7810:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165137:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:53522 (any)
+[0306/165137:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:53524 (any)
+[0306/165205:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/165205:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/165205:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/165209:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/165209:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/165209:WARNING:stunport.cc(385)] Jingle:Port[0981CBF0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/165209:WARNING:stunport.cc(385)] Jingle:Port[169B2538:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/165210:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16B7F438:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165210:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16B7FB10:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165210:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16B7C208:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165210:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16B7E8D0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165219:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:51699 (any)
+[0306/165219:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:51701 (any)
+[0306/165346:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/165346:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/165346:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/165350:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/165351:WARNING:stunport.cc(385)] Jingle:Port[0A28ECC8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/165351:WARNING:stunport.cc(385)] Jingle:Port[0A2176D8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/165351:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0306/165351:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/165351:WARNING:stunport.cc(385)] Jingle:Port[0A28ECC8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/165351:WARNING:stunport.cc(385)] Jingle:Port[0D153E50:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/165351:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0CF07FC8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165351:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[170F04D0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165351:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16F797B0:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/165351:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16F799F8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/174224:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/174224:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/174224:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/174227:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/174227:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/174328:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/174328:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/174328:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/174328:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/174328:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/174328:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/174328:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0306/174329:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/174330:WARNING:stunport.cc(385)] Jingle:Port[0B03E5D0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/174330:WARNING:stunport.cc(385)] Jingle:Port[12813838:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/174330:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0B00A390:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/174330:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0B00A5D8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/174330:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0B00A820:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/174330:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0B00AEF8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/174330:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0306/174330:WARNING:stunport.cc(385)] Jingle:Port[12813838:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/174330:WARNING:stunport.cc(385)] Jingle:Port[171A2A50:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0306/174330:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0B00AEF8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/174330:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0B00A5D8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/174330:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0B00A820:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/174330:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0B00B388:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0306/174339:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:60620 (any)
+[0306/174339:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:60622 (any)
+[0309/113118:ERROR:ppapi_thread.cc(301)] Failed to load Pepper module from D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\Screen\bin\x86\Debug\PepperFlash\pepflashplayer.dll (error: 126)
+[0309/113118:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/113118:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/113119:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/113124:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0309/113124:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0D515990:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/113124:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0D515BD8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/113124:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0D514BE0:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/113124:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0D514750:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/113124:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0309/113124:WARNING:stunport.cc(385)] Jingle:Port[131F7FA8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/113124:WARNING:stunport.cc(385)] Jingle:Port[16CAAFC8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/113124:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[1324F8F0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/113124:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[1324FFC8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/113124:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[1324F460:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/113124:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[1324ED88:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/113134:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:51191 (any)
+[0309/113134:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:51193 (any)
+[0309/114053:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/114053:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/114053:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/114057:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0309/114057:WARNING:stunport.cc(385)] Jingle:Port[099268A0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/114057:WARNING:stunport.cc(385)] Jingle:Port[174EA5D0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/114058:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0309/114058:WARNING:stunport.cc(385)] Jingle:Port[09891858:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/114058:WARNING:stunport.cc(385)] Jingle:Port[175DBCA8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/114058:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[161ED920:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/114058:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[098F42F8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/114058:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[163BFA78:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/114058:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[068BE5B0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/114107:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:49426 (any)
+[0309/114107:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:49428 (any)
+[0309/114616:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/114616:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/114616:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/114620:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0309/114620:WARNING:stunport.cc(385)] Jingle:Port[158B4FD0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/114620:WARNING:stunport.cc(385)] Jingle:Port[158B66B0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/114620:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0309/114621:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0309/114621:WARNING:stunport.cc(385)] Jingle:Port[0D8A0DA8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/114621:WARNING:stunport.cc(385)] Jingle:Port[0A161290:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/114621:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[1598D830:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/114621:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[1598D3A0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/114621:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15B3E610:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/114621:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15B3E858:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/114630:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:60784 (any)
+[0309/114630:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:60786 (any)
+[0309/115233:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/115233:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/115233:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/115248:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0309/115248:WARNING:stunport.cc(385)] Jingle:Port[16C27930:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/115248:WARNING:stunport.cc(385)] Jingle:Port[00E62928:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/115248:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0309/115249:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0309/115249:WARNING:stunport.cc(385)] Jingle:Port[15954500:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/115249:WARNING:stunport.cc(385)] Jingle:Port[07832A80:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0309/115249:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15847790:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/115249:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15845C30:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/115249:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[158460C0:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/115249:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[1596CA58:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0309/115258:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:57860 (any)
+[0309/115258:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:57862 (any)
+[0309/115512:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/115512:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/115512:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/122512:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0309/122513:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0310/114640:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0310/114640:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0310/114640:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0310/114646:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0310/114646:WARNING:stunport.cc(385)] Jingle:Port[165362F0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0310/114646:WARNING:stunport.cc(385)] Jingle:Port[16534DB0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0310/114646:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[137B7D80:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0310/114646:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[137B7FC8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0310/114646:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[137B8D78:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0310/114646:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[137B8210:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0310/114646:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0310/114646:WARNING:stunport.cc(385)] Jingle:Port[16537D80:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0310/114646:WARNING:stunport.cc(385)] Jingle:Port[16536840:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0310/114646:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[137B8B30:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0310/114646:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[137B8FC0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0310/114646:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[137B9450:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0310/114646:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[137B8D78:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0310/114656:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:52941 (any)
+[0310/114656:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:52943 (any)
+[0314/145006:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/145006:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/145006:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/145010:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0314/145011:WARNING:stunport.cc(385)] Jingle:Port[159B6EE0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0314/145011:WARNING:stunport.cc(385)] Jingle:Port[16E5C238:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0314/145011:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0314/145011:WARNING:stunport.cc(385)] Jingle:Port[16FA4D88:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0314/145011:WARNING:stunport.cc(385)] Jingle:Port[0D5B2C90:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0314/145011:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16DAD720:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0314/145011:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16DAE718:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0314/145011:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16DAD4D8:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0314/145011:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16DAD048:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0314/145021:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:54356 (any)
+[0314/145021:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:54358 (any)
+[0314/152006:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/152007:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/155007:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/162007:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/165007:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/172007:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/174633:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/174637:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0314/174637:WARNING:stunport.cc(385)] Jingle:Port[0AECE2E0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0314/174637:WARNING:stunport.cc(385)] Jingle:Port[0A226DF0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0314/174638:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0314/174638:WARNING:stunport.cc(385)] Jingle:Port[0AECE2E0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0314/174638:WARNING:stunport.cc(385)] Jingle:Port[12369820:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0314/174638:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[170DDF38:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0314/174638:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0AEBDE78:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0314/174638:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[170C97C8:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0314/174638:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0A213BE8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0314/174647:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:59438 (any)
+[0314/174647:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:59440 (any)
+[0314/175007:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/092402:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/092402:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/092402:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/092408:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/092408:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[165E5A10:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/092408:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[165E5C58:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/092408:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[165E7328:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/092408:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[165E67C0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/092411:WARNING:stunport.cc(385)] Jingle:Port[09D20D38:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/092411:WARNING:stunport.cc(385)] Jingle:Port[09D20FE0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/092411:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/092411:WARNING:stunport.cc(385)] Jingle:Port[09D20D38:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/092411:WARNING:stunport.cc(385)] Jingle:Port[09D20298:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/092412:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[165E6C50:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/092412:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[165E67C0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/092412:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[165E6E98:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/092412:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[165E7328:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/095402:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/095403:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/100511:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/100511:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/100511:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/100515:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/100515:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/100519:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/100519:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0315/100519:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/100519:WARNING:stunport.cc(385)] Jingle:Port[0A22C578:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/100519:WARNING:stunport.cc(385)] Jingle:Port[169ADBF0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/100519:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15C76CE0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/100519:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15C77600:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/100519:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15C785F8:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/100519:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[15C76F28:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/100529:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:56748 (any)
+[0315/100529:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:56750 (any)
+[0315/101328:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/101328:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/101329:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/101333:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/101333:WARNING:stunport.cc(385)] Jingle:Port[0A1AC6F8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/101333:WARNING:stunport.cc(385)] Jingle:Port[0C6FC828:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/101333:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D4DF8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101333:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D44D8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101333:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D5040:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101333:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D5288:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101333:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0315/101334:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/101334:WARNING:stunport.cc(385)] Jingle:Port[0A1AC9A0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/101334:WARNING:stunport.cc(385)] Jingle:Port[17CFC890:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/101334:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D4048:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101334:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D5040:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101334:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D5288:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101334:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162D54D0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101343:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:61969 (any)
+[0315/101343:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:61971 (any)
+[0315/101933:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/101933:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/101933:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/101938:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/101938:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[07051948:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101938:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0F812120:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101938:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0F812368:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101938:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0F8125B0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101941:WARNING:stunport.cc(385)] Jingle:Port[0F7A0008:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/101941:WARNING:stunport.cc(385)] Jingle:Port[0A742A28:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/101942:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/101942:WARNING:stunport.cc(385)] Jingle:Port[19025D78:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/101942:WARNING:stunport.cc(385)] Jingle:Port[0A6D7190:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/101942:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0F72E520:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101942:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0F72E090:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101942:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0F72D098:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101942:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0F72D770:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/101951:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:65174 (any)
+[0315/101951:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:65176 (any)
+[0315/102146:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102146:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102146:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102151:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/102151:WARNING:stunport.cc(385)] Jingle:Port[162C1238:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102151:WARNING:stunport.cc(385)] Jingle:Port[0A243200:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102151:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0315/102151:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/102151:WARNING:stunport.cc(385)] Jingle:Port[0A243200:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102151:WARNING:stunport.cc(385)] Jingle:Port[0A2434A8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102151:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[176EBCC8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102151:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[176E9F20:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102151:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[176EA5F8:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102151:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[176EC158:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102157:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00D96098]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102204:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102204:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102204:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102208:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/102209:WARNING:stunport.cc(385)] Jingle:Port[0ED69588:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102209:WARNING:stunport.cc(385)] Jingle:Port[0EA6A428:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102209:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0315/102209:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/102209:WARNING:stunport.cc(385)] Jingle:Port[0EB42E80:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102209:WARNING:stunport.cc(385)] Jingle:Port[0EB41FC0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102209:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0EB0EE90:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102209:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[172CAD50:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102209:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0B270D48:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102209:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[172CF398:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102216:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00E09270]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102216:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00E09270]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102216:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00E09270]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102216:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00E09270]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102216:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00E09270]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102216:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00E09270]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102216:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00E09270]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102216:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00E09270]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102216:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00E09270]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102216:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-00E09270]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/102229:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102229:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102229:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102233:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/102233:WARNING:stunport.cc(385)] Jingle:Port[16C4C320:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102233:WARNING:stunport.cc(385)] Jingle:Port[12B185B8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102233:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0315/102233:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/102233:WARNING:stunport.cc(385)] Jingle:Port[09D70FF8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102233:WARNING:stunport.cc(385)] Jingle:Port[09D712A0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102234:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16E69DB0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102234:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16CB4228:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102234:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[09D90B10:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102234:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[09D90D58:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102243:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:55432 (any)
+[0315/102243:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:55434 (any)
+[0315/102311:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102311:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102312:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102316:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/102316:WARNING:stunport.cc(385)] Jingle:Port[0DD21F78:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102316:WARNING:stunport.cc(385)] Jingle:Port[10C53DA8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102316:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0315/102316:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/102316:WARNING:stunport.cc(385)] Jingle:Port[179499C8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102316:WARNING:stunport.cc(385)] Jingle:Port[0DB6E528:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102316:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[178F76F8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102316:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[178F7020:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102316:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[178F86F0:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102316:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[178F7268:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102326:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:55135 (any)
+[0315/102326:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:55137 (any)
+[0315/102557:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102557:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102557:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/102602:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/102602:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0315/102602:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/102602:WARNING:stunport.cc(385)] Jingle:Port[0B720E50:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102602:WARNING:stunport.cc(385)] Jingle:Port[0EE12968:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/102602:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0EEA9BA0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102602:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0B616780:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102602:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17849978:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102602:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0F027C90:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/102612:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:55492 (any)
+[0315/102612:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:55494 (any)
+[0315/103035:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/103035:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/103035:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/103039:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/103040:WARNING:stunport.cc(385)] Jingle:Port[171D0D18:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/103040:WARNING:stunport.cc(385)] Jingle:Port[09F3EC50:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/103040:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17029630:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103040:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[171AE5C0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103040:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0D50C318:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103040:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0D6E7498:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103040:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 5
+[0315/103040:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/103040:WARNING:stunport.cc(385)] Jingle:Port[17060DE8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/103040:WARNING:stunport.cc(385)] Jingle:Port[161F3180:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/103040:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0D6C51D8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103040:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17029630:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103040:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[162AD5E0:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103040:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[09F43C70:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103050:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:57892 (any)
+[0315/103050:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:57894 (any)
+[0315/103301:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/103301:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/103301:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/103328:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/103328:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/103328:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/103333:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/103333:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/103333:WARNING:stunport.cc(385)] Jingle:Port[156D7AC0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/103333:WARNING:stunport.cc(385)] Jingle:Port[157F9B20:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/103333:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17165110:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103333:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17166350:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103333:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17166EB8:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103333:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17168A18:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103343:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:56622 (any)
+[0315/103343:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:56624 (any)
+[0315/103602:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/103602:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/103602:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/103606:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/103606:WARNING:stunport.cc(385)] Jingle:Port[0EDA9FF8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/103606:WARNING:stunport.cc(385)] Jingle:Port[0ECF5318:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/103606:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/103607:WARNING:stunport.cc(385)] Jingle:Port[0EC257E0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/103607:WARNING:stunport.cc(385)] Jingle:Port[0EE11D10:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/103607:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0A6FF188:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103607:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0ED96AC8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103607:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0ED95AD0:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103607:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[0EE2A2D0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/103616:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:55304 (any)
+[0315/103616:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:55306 (any)
+[0315/105046:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/105046:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/105046:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/105050:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/105050:WARNING:stunport.cc(385)] Jingle:Port[0AB5DA30:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/105050:WARNING:stunport.cc(385)] Jingle:Port[072952E0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/105050:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/105050:WARNING:stunport.cc(385)] Jingle:Port[1667B500:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/105050:WARNING:stunport.cc(385)] Jingle:Port[1653EC90:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/105051:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[173EC020:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/105051:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[173EDDC8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/105051:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[173EB270:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/105051:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[173EE010:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/105100:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:65263 (any)
+[0315/105100:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:65265 (any)
+[0315/105217:ERROR:gles2_cmd_decoder.cc(14664)] [.RenderWorker-06D5E000]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[0315/105247:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/105247:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/105247:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/105252:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/105252:WARNING:stunport.cc(385)] Jingle:Port[09B39BB8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/105252:WARNING:stunport.cc(385)] Jingle:Port[15B30260:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/105252:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17134EE8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/105252:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17134CA0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/105252:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[17135C98:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/105252:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[171355C0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/110336:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/110336:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/110337:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/110341:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/110341:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/110349:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/110349:WARNING:stunport.cc(385)] Jingle:Port[15222E20:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/110349:WARNING:stunport.cc(385)] Jingle:Port[15272518:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/110349:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[096E7F30:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/110349:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[096E8178:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/110349:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[096E83C0:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/110349:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[096E6CF0:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/110359:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:53965 (any)
+[0315/110359:ERROR:stunport.cc(89)] Binding request timed out from 0.0.0.x:53967 (any)
+[0315/111901:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0315/113600:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/113600:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/113600:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0315/113604:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/113605:WARNING:stunport.cc(385)] Jingle:Port[09E63388:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/113605:WARNING:stunport.cc(385)] Jingle:Port[16A70450:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/113605:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 3
+[0315/113605:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0315/113605:WARNING:stunport.cc(385)] Jingle:Port[13484C48:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/113605:WARNING:stunport.cc(385)] Jingle:Port[134D0450:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0315/113605:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[09DC8930:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/113605:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[16A11020:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/113605:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[06661BC8:data:2:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/113605:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[066624E8:data:2:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0315/153813:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.

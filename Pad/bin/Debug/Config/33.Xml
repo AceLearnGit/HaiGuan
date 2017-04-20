@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<Devices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeviceList>
+    <Device Row="3" Column="3" DeviceID="A">
+      <DeviceDataList>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>0</Row>
+          <RowSpan>1</RowSpan>
+          <Column>0</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>c8d59346-56f1-4ca2-85e9-326f26400551</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>0</Row>
+          <RowSpan>1</RowSpan>
+          <Column>1</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>be257e33-abc0-4880-ae37-8f7b37932cf0</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>0</Row>
+          <RowSpan>1</RowSpan>
+          <Column>2</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>fd46caed-f4ac-4482-9f15-e2a96922ac52</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>1</Row>
+          <RowSpan>1</RowSpan>
+          <Column>0</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>5d54977d-165e-4d97-8530-1a6b38164838</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>1</Row>
+          <RowSpan>1</RowSpan>
+          <Column>1</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>7538ca1a-54de-4882-a9c4-6e8e5b2bbf70</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>1</Row>
+          <RowSpan>1</RowSpan>
+          <Column>2</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>72f532ec-c0f9-44cd-8984-28a304e16c54</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>2</Row>
+          <RowSpan>1</RowSpan>
+          <Column>0</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>cd01cfde-2bad-429e-96d1-fd8f6fd2a2e3</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>2</Row>
+          <RowSpan>1</RowSpan>
+          <Column>1</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>e108a158-26d1-4d30-ac70-be07a55e6871</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+        <SingleScreenItemInfo TargetUrl="www.12306.cn">
+          <Row>2</Row>
+          <RowSpan>1</RowSpan>
+          <Column>2</Column>
+          <ColumnSpan>1</ColumnSpan>
+          <ID>dc758ecc-0c5b-4259-8837-eeb84e454861</ID>
+          <IsWebKit>false</IsWebKit>
+        </SingleScreenItemInfo>
+      </DeviceDataList>
+    </Device>
+    <Device Row="1" Column="1" DeviceID="B">
+      <DeviceDataList />
+    </Device>
+    <Device Row="1" Column="1" DeviceID="C">
+      <DeviceDataList />
+    </Device>
+    <Device Row="1" Column="1" DeviceID="D">
+      <DeviceDataList />
+    </Device>
+  </DeviceList>
+</Devices>

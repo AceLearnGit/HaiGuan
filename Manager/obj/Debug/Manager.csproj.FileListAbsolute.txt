@@ -1,0 +1,10 @@
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\Manager\bin\Debug\Manager.exe.config
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\Manager\bin\Debug\Manager.exe
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\Manager\bin\Debug\Manager.pdb
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\Manager\bin\Debug\Common.dll
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\Manager\bin\Debug\DataModel.dll
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\Manager\bin\Debug\Common.pdb
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\Manager\bin\Debug\DataModel.pdb
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\Manager\obj\Debug\Manager.exe
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\Manager\obj\Debug\Manager.pdb

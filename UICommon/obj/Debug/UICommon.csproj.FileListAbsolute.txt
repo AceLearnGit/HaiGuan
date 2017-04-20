@@ -1,0 +1,11 @@
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\UICommon\bin\Debug\UICommon.dll
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\UICommon\bin\Debug\UICommon.pdb
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\UICommon\obj\Debug\UICommon.csprojResolveAssemblyReference.cache
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\UICommon\obj\Debug\Themes\Generic.baml
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\UICommon\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\UICommon\obj\Debug\UICommon_MarkupCompile.cache
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\UICommon\obj\Debug\UICommon_MarkupCompile.lref
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\UICommon\obj\Debug\Controls\DragHelper\DragHelperBaseStyle.baml
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\UICommon\obj\Debug\UICommon.g.resources
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\UICommon\obj\Debug\UICommon.dll
+D:\Code\GesTouch\Prototypes\CustomsPrototype.V2\UICommon\obj\Debug\UICommon.pdb

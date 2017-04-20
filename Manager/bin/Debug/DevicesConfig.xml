@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<DeviceInfoConfigModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ScreenDeviceList>
+    <MachineConfigModel>
+      <DeciveID>A</DeciveID>
+      <DeviceEndPointAddress>http://192.168.6.25:8733/Service1/</DeviceEndPointAddress>
+    </MachineConfigModel>
+    <MachineConfigModel>
+      <DeciveID>B</DeciveID>
+      <DeviceEndPointAddress>http://192.168.6.01:8733/Service1/</DeviceEndPointAddress>
+    </MachineConfigModel>
+    <MachineConfigModel>
+      <DeciveID>C</DeciveID>
+      <DeviceEndPointAddress>http://localhost:8735/Service1/</DeviceEndPointAddress>
+    </MachineConfigModel>
+	<MachineConfigModel>
+      <DeciveID>D</DeciveID>
+      <DeviceEndPointAddress>http://localhost:8736/Service1/</DeviceEndPointAddress>
+    </MachineConfigModel>
+  </ScreenDeviceList>
+  <MettingDevice>
+    <DeciveID>Metting</DeciveID>
+    <DeviceEndPointAddress>http://192.168.6.25:8733/Service1/</DeviceEndPointAddress>
+  </MettingDevice>
+</DeviceInfoConfigModel>
